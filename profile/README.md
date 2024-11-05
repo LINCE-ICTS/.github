@@ -36,7 +36,7 @@ Neste repositório, você encontrará:
 
 Para saber mais sobre o LINCE ou se interessar por parcerias e colaborações, entre em contato conosco:
 
-- 📧 **Email**: [seuemail@unesp.br]
-- 📸 **Instagram**: [@lince_unesp](https://instagram.com/lince_unesp)
+- 📧 **Email**: [lince.icts@unesp.br]
+- 📸 **Instagram**: [@lince_unesp](https://www.instagram.com/lince.icts/)
 
 Estamos sempre em busca de novos desafios e oportunidades de aprendizado! 🌱
